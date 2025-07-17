@@ -29,7 +29,7 @@ Este projeto tem como objetivo modernizar a infraestrutura de TI da farmácia **
 ## ✅ Status
 
 📌 Projeto em fase de documentação.  
-✔️ Primeira versão do relatório criada em: **17/07/2025**.
+✔️ Primeira versão do relatório criada em: **16/07/2025**.
 
 ## 🧠 Autor
 
